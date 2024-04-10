@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:maxLines="2"
+    android:paddingTop="@dimen/half"
+    android:textStyle="bold"
+    android:textSize="14sp"
+    android:drawableTop="@drawable/category"
+    android:drawablePadding="@dimen/half"
+    android:gravity="center_horizontal"
+    tools:text="Category"
+    />
